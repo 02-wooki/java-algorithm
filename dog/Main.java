@@ -1,4 +1,4 @@
-package Backjoon.add.dog;
+package Backjoon.dog;
 
 /*
 |\_/|

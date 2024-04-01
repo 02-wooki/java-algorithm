@@ -1,4 +1,4 @@
-package Backjoon.add.cat;
+package Backjoon.cat;
 
 public class Main {
     public static void main(String[] args) {

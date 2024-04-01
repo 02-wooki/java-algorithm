@@ -1,4 +1,4 @@
-package Backjoon.add.multiple;
+package Backjoon.multiple;
 
 import java.util.Scanner;
 

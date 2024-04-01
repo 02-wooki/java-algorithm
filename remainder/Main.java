@@ -1,4 +1,4 @@
-package Backjoon.add.remainder;
+package Backjoon.remainder;
 
 import java.util.Scanner;
 

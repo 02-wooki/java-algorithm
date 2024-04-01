@@ -1,4 +1,4 @@
-package Backjoon.add.compareTwoNumbers;
+package Backjoon.compareTwoNumbers;
 
 import java.util.Scanner;
 
