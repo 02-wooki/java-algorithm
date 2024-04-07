@@ -1,4 +1,4 @@
-package Backjoon.lessthanX.changetheBall;
+package Backjoon.changetheBall;
 
 import java.util.Scanner;
 
