@@ -1,4 +1,4 @@
-package Backjoon.Silver.YourGrade;
+package Backjoon.Silver.B25206;
 
 import java.util.Scanner;
 
