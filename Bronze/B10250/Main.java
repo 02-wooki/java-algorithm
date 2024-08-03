@@ -1,4 +1,4 @@
-package Backjoon.Bronze.AcmHotel;
+package Backjoon.Bronze.B10250;
 
 import java.util.Scanner;
 
