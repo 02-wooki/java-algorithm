@@ -1,4 +1,4 @@
-package Backjoon.Bronze.HoneyComb;
+package Backjoon.Bronze.B2292;
 
 import java.util.Scanner;
 
