@@ -1,4 +1,4 @@
-package Backjoon.Bronze.alarm;
+package Backjoon.Bronze.B2884;
 
 import java.util.Scanner;
 
