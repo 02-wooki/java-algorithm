@@ -1,4 +1,4 @@
-package Backjoon.Bronze.repeatString;
+package Backjoon.Bronze.B2675;
 
 import java.util.Scanner;
 
