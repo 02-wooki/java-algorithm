@@ -1,4 +1,4 @@
-package Backjoon.Silver.groupWordChecker;
+package Backjoon.Silver.B1316;
 
 import java.util.Scanner;
 
