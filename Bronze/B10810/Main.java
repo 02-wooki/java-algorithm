@@ -1,4 +1,4 @@
-package Backjoon.Bronze.maxMin.goaltheBall;
+package Backjoon.Bronze.B10810;
 
 import java.util.Scanner;
 
