@@ -1,4 +1,4 @@
-package Backjoon.Bronze.wordLength;
+package Backjoon.Bronze.B2743;
 
 import java.util.Scanner;
 
