@@ -1,4 +1,4 @@
-package Backjoon.Bronze.cat;
+package Backjoon.Bronze.B10171;
 
 public class Main {
     public static void main(String[] args) {
