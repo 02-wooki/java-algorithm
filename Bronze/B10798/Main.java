@@ -1,4 +1,4 @@
-package Backjoon.Bronze.readColumn;
+package Backjoon.Bronze.B10798;
 
 import java.util.Arrays;
 import java.util.Scanner;
