@@ -1,4 +1,4 @@
-package Backjoon.Bronze.PalindromNumber;
+package Backjoon.Bronze.B1259;
 
 import java.util.Scanner;
 
