@@ -1,4 +1,4 @@
-package Backjoon.Bronze.yoonYear;
+package Backjoon.Bronze.B2753;
 
 import java.util.Scanner;
 
