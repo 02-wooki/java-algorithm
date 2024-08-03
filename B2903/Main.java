@@ -1,4 +1,4 @@
-package Backjoon.Bronze.centerMoveAlgorithm;
+package Backjoon.B2903;
 
 import java.util.Scanner;
 
