@@ -1,4 +1,4 @@
-package Backjoon.Bronze.Population;
+package Backjoon.Bronze.B26561;
 
 import java.util.Scanner;
 
