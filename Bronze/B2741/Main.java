@@ -1,4 +1,4 @@
-package Backjoon.Bronze.PrintN;
+package Backjoon.Bronze.B2741;
 
 import java.util.Scanner;
 
