@@ -1,4 +1,4 @@
-package Backjoon.Bronze.noHomework;
+package Backjoon.Bronze.B5597;
 
 import java.util.Scanner;
 
