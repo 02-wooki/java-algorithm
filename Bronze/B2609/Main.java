@@ -1,4 +1,4 @@
-package Backjoon.Bronze.GCDandLCM;
+package Backjoon.Bronze.B2609;
 
 import java.util.Scanner;
 
