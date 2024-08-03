@@ -1,4 +1,4 @@
-package Backjoon.Bronze.fourFundamentalOps;
+package Backjoon.Bronze.B10869;
 
 import java.util.Scanner;
 
