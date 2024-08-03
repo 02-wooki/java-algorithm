@@ -1,4 +1,4 @@
-package Backjoon.Bronze.littleJungmin;
+package Backjoon.Bronze.B11382;
 
 import java.util.Scanner;
 
