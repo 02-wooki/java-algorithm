@@ -1,4 +1,4 @@
-package Backjoon.Bronze.matrixAdd;
+package Backjoon.Bronze.B2738;
 
 import java.util.Scanner;
 
