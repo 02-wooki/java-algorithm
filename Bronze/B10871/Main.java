@@ -1,4 +1,4 @@
-package Backjoon.Bronze.lessthanX;
+package Backjoon.Bronze.B10871;
 
 import java.util.Scanner;
 
