@@ -1,4 +1,4 @@
-package Backjoon.Bronze.buddismDate;
+package Backjoon.Bronze.B18108;
 
 import java.util.Scanner;
 
