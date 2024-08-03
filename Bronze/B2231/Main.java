@@ -1,4 +1,4 @@
-package Backjoon.Bronze.DecompositionSum;
+package Backjoon.Bronze.B2231;
 
 import java.util.Scanner;
 
