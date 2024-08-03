@@ -1,4 +1,4 @@
-package Backjoon.Bronze.BlackJack;
+package Backjoon.Bronze.B2798;
 
 import java.util.Scanner;
 
