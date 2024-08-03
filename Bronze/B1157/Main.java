@@ -1,4 +1,4 @@
-package Backjoon.Bronze.wordStudy;
+package Backjoon.Bronze.B1157;
 
 import java.util.Scanner;
 
