@@ -1,4 +1,4 @@
-package Backjoon.Bronze.pirntGrass;
+package Backjoon.Bronze.B25083;
 
 //         ,r'"7
 //r`-_   ,'  ,/
