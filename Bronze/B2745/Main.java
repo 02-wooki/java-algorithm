@@ -1,4 +1,4 @@
-package Backjoon.Bronze.transBase;
+package Backjoon.Bronze.B2745;
 
 import java.util.Scanner;
 
