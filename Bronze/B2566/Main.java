@@ -1,4 +1,4 @@
-package Backjoon.Bronze.twoDMax;
+package Backjoon.Bronze.B2566;
 
 import java.util.Scanner;
 
