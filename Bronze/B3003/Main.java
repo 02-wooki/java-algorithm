@@ -1,4 +1,4 @@
-package Backjoon.Bronze.Chesspieces;
+package Backjoon.Bronze.B3003;
 
 import java.util.Scanner;
 
