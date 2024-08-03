@@ -1,4 +1,4 @@
-package Backjoon.Bronze.sub;
+package Backjoon.Bronze.B1001;
 
 
 import java.util.Scanner;
