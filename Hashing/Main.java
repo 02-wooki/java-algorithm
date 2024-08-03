@@ -15,10 +15,10 @@ public class Main {
 
         long hashed = 0, powered = 1;
         for (int i = 0; i < nums.length; i++) {
-            hashed += nums[i] * powered;
-            powered *= 31;
+            hashed = (hashed + nums[i] * powered) % 1234567891;
+            powered = (powered * 31) % 1234567891;
         }
 
-        System.out.println(hashed % 1234567891);
+        System.out.println(hashed);
     }
 }
