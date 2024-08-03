@@ -1,4 +1,4 @@
-package Backjoon.Bronze.DispersiveProcessing;
+package Backjoon.Bronze.B1009;
 
 import java.util.Scanner;
 
