@@ -1,4 +1,4 @@
-package Backjoon.Bronze.quadrant;
+package Backjoon.Bronze.B14681;
 
 import java.util.Scanner;
 
