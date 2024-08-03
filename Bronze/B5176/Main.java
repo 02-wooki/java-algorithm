@@ -1,4 +1,4 @@
-package Backjoon.Bronze.ContestSeat;
+package Backjoon.Bronze.B5176;
 
 import java.util.Scanner;
 
