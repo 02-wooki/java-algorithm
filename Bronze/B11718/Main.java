@@ -1,4 +1,4 @@
-package Backjoon.Bronze.printTheInput;
+package Backjoon.Bronze.B11718;
 
 import java.util.Scanner;
 
