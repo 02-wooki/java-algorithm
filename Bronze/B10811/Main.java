@@ -1,4 +1,4 @@
-package Backjoon.Bronze.reverseBaguni;
+package Backjoon.Bronze.B10811;
 
 import java.util.Scanner;
 
