@@ -1,4 +1,4 @@
-package Backjoon.Bronze.longlonglonglongInt;
+package Backjoon.Bronze.B25314;
 
 import java.util.Scanner;
 
