@@ -1,4 +1,4 @@
-package Backjoon.Bronze.VerificationNumber;
+package Backjoon.Bronze.B2475;
 
 import java.util.Scanner;
 
