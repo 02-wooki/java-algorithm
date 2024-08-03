@@ -1,4 +1,4 @@
-package Backjoon.Bronze.examRate;
+package Backjoon.Bronze.B9498;
 
 import java.util.Scanner;
 
