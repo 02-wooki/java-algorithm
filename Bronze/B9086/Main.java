@@ -1,4 +1,4 @@
-package Backjoon.Bronze.firstAndLastChar;
+package Backjoon.Bronze.B9086;
 
 import java.util.Scanner;
 
