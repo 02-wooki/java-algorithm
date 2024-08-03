@@ -1,4 +1,4 @@
-package Backjoon.Bronze.findPrimeNumber;
+package Backjoon.Bronze.B1978;
 
 import java.util.Scanner;
 
