@@ -1,4 +1,4 @@
-package Backjoon.Bronze.maxMin;
+package Backjoon.Bronze.B10818;
 
 import java.util.Scanner;
 
