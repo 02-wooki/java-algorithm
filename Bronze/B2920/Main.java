@@ -1,4 +1,4 @@
-package Backjoon.Bronze.Scale;
+package Backjoon.Bronze.B2920;
 
 import java.util.Scanner;
 
