@@ -1,4 +1,4 @@
-package Backjoon.Bronze.Transactions;
+package Backjoon.Bronze.B2975;
 
 import java.util.Scanner;
 
