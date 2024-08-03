@@ -1,4 +1,4 @@
-package Backjoon.Bronze.Pitagoras;
+package Backjoon.Bronze.B4153;
 
 import java.util.Scanner;
 
