@@ -1,4 +1,4 @@
-package Backjoon.Bronze.findAlphabet;
+package Backjoon.Bronze.B10809;
 
 import java.util.Scanner;
 
