@@ -1,4 +1,4 @@
-package Backjoon.Bronze.AsciiNumSum;
+package Backjoon.Bronze.B11720;
 
 import java.util.Scanner;
 
