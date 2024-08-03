@@ -1,4 +1,4 @@
-package Backjoon.Bronze.OxQuiz;
+package Backjoon.Bronze.B8958;
 
 import java.util.Scanner;
 
