@@ -1,4 +1,4 @@
-package Backjoon.Bronze.dial;
+package Backjoon.Bronze.B5622;
 
 import java.util.Scanner;
 
