@@ -1,4 +1,4 @@
-package Backjoon.Bronze.laundryCEO;
+package Backjoon.Bronze.B2720;
 
 import java.util.Scanner;
 
