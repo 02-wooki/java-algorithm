@@ -1,4 +1,4 @@
-package Backjoon.Bronze.multipleTable;
+package Backjoon.Bronze.B2739;
 
 import java.util.Scanner;
 
