@@ -1,4 +1,4 @@
-package Backjoon.Bronze.Hashing;
+package Backjoon.Bronze.B15829;
 
 import java.util.Scanner;
 
