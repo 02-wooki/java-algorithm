@@ -1,4 +1,4 @@
-package Backjoon.Bronze.ovenClock;
+package Backjoon.Bronze.B2525;
 
 import java.util.Scanner;
 
