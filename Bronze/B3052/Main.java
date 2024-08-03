@@ -1,4 +1,4 @@
-package Backjoon.Bronze.remainder;
+package Backjoon.Bronze.B3052;
 
 import java.util.Scanner;
 
