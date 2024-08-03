@@ -1,4 +1,4 @@
-package Backjoon.Bronze.threeDice;
+package Backjoon.Bronze.B2480;
 
 import java.util.Arrays;
 import java.util.Scanner;
