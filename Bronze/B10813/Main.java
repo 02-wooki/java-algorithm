@@ -1,4 +1,4 @@
-package Backjoon.Bronze.changetheBall;
+package Backjoon.Bronze.B10813;
 
 import java.util.Scanner;
 
