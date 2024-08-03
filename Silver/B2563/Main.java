@@ -1,4 +1,4 @@
-package Backjoon.Silver.colorPaper;
+package Backjoon.Silver.B2563;
 
 import java.util.Scanner;
 
