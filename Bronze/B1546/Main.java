@@ -1,4 +1,4 @@
-package Backjoon.Bronze.average;
+package Backjoon.Bronze.B1546;
 
 import java.util.Scanner;
 
