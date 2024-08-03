@@ -1,4 +1,4 @@
-package Backjoon.Bronze.dog;
+package Backjoon.Bronze.B10172;
 
 /*
 |\_/|
