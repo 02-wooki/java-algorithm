@@ -1,4 +1,4 @@
-package Backjoon.Silver.Croatia;
+package Backjoon.Silver.B2941;
 
 import java.util.Scanner;
 
