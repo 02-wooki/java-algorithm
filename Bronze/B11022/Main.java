@@ -1,4 +1,4 @@
-package Backjoon.Bronze.add8;
+package Backjoon.Bronze.B11022;
 
 import java.io.*;
 import java.util.StringTokenizer;
