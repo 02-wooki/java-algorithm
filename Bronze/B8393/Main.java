@@ -1,4 +1,4 @@
-package Backjoon.Bronze.hap;
+package Backjoon.Bronze.B8393;
 
 import java.util.Scanner;
 
