@@ -1,4 +1,4 @@
-package Backjoon.Bronze.helloWorld;
+package Backjoon.Bronze.B2557;
 
 // boj 2557
 public class Main {
