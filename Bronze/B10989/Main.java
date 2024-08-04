@@ -1,25 +1,72 @@
 package Backjoon.Bronze.B10989;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.Arrays;
+import java.io.*;
+
+/*
+ *  Quick Sort 알고리즘 구현
+ *  평균 시간복잡도 O(n log n)이지만 최악의 경우 O(n^2)으로 시간초과 엔딩
+ *
+ *  따라서 카운팅 정렬 O(n) 사용해서 푸는 문제
+ *
+ *  자바 스타일로 객체 만들어서 푸니까 시간초과
+ *  ->  객체 저장하고 다시 toString 만들고 하는 시간 때문에 초과인지는 모르겠으나
+ *      절차지향 코딩으로 다시 짜고 출력을 sout이 아닌 BufferedWriter로 바꾸니 통과되었음
+ */
 
 public class Main {
     public static void main(String[] args) throws IOException {
+
+        // 입출력 스트림, 카운터 배열 선언
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter out = new BufferedWriter(new OutputStreamWriter(System.out));
+
         int size = Integer.parseInt(in.readLine());
-        int[] arr = new int[size];
+        int[] countingTable = new int[10001];
 
-        for (int i = 0; i < size; i++)
-            arr[i] = Integer.parseInt(in.readLine());
+        // 입력받는 동시에 해당 인덱스를 1씩 증가하며 카운트
+        for (int i = 0; i < size; i++) {
+            countingTable[Integer.parseInt(in.readLine())]++;
+        }
 
-        quickSort(arr);
+        // 출력
+        for (int i = 0; i < countingTable.length; i++) {
+            for (int j = 0; j < countingTable[i]; j++)
+                out.write(i + "\n");
+        }
 
-        for (int i : arr)
-            System.out.println(i);
+        out.flush();
+        out.close();
+        in.close();
+    }
+}
+
+class CountingSort {
+
+    int[] countTable;
+
+    public CountingSort(int[] arr, int max) {
+        countTable = new int[max + 1];
+        for (int i = 0; i < countTable.length; i++)
+            countTable[i] = 0;
+
+        for (int i = 0; i < arr.length; i++)
+            countTable[arr[i]]++;
     }
 
+    @Override
+    public String toString() {
+        String s = "";
+
+        for (int i = 0; i < countTable.length; i++) {
+            for (int j = 0; j < countTable[i]; j++)
+                s = String.format("%s%d\n", s, i);
+        }
+
+        return s;
+    }
+}
+
+class QuickSort {
     public static void quickSort(int[] arr) {
         quickSort(arr, 0, arr.length - 1);
     }
