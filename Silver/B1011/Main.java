@@ -9,13 +9,13 @@ public class Main {
 
         int t = in.nextInt();
         while (t-- > 0) {
-            int d = in.nextInt() - in.nextInt() * -1;
+            int d = (in.nextInt() - in.nextInt()) * -1;
 
             int rootd = (int)Math.sqrt(d);
             int res = Math.max(1, rootd * 2);
             if (rootd * rootd == d)
                 res--;
-            else if (rootd * rootd + (rootd + 1) * (rootd + 1) < d * 2)
+            else if (d > rootd * (rootd + 1))
                 res++;
 
             System.out.println(res);
