@@ -1,0 +1,21 @@
+n이 1 ~ 9일 때: length = n	maxLength = 9
+n이 10 ~ 99일 떄: length = 2n - 9		maxLength = 189
+n이 100 ~ 999일 때: length = 3(n - 99) + 2n - 9
+
+n의 자리수 x
+length = x(n - (10^(x - 1)) + 1) + length_(x-1)
+
+((leftLength - 1) % x)는 몇 번째 글자인지 (leftLength = 3이면 11의 0번째 글자, 4면 11의 첫번째 글자)
+((leftLength - 1) / x + 10^(x-1)) 는 정답 글자
+
+k = 10 일 때 (정답: "10"의 1)		leftLength = 1
+k = 11 일 때 (정답: "10"의 0)		leftLength = 2
+k = 12 일 때 (정답: "11"의 1)		leftLength = 3
+k = 13 일 때 (정답: "11"의 1)		leftLength = 4
+k = 14 일 때 (정답: "12"의 1)		leftLength = 5
+k = 15일 때 (정답: "12"의 2)		leftLength = 6
+k = 16일 때 (정답: "13"의 1)
+k = 17일 때 (정답: "13"의 3) …
+
+k = 30 일 때 (정답: "20"의 2)		leftLength = 21
+k = 31 일 때 (정답: "20"의 0)		leftLength = 22
